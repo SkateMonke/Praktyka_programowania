@@ -1,6 +1,8 @@
 """
 GONGAGA
 """
+
+
 def add(a: int, b: int) -> int:
     """FUNKCJA DODAWANIA"""
     return a + b
