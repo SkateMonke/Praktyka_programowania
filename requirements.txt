@@ -46,10 +46,6 @@ opencv-python==4.9.0.80
 opt-einsum==3.3.0
 optree==0.11.0
 packaging==23.2
-Panda3D==1.10.13
-panda3d-gltf==1.0.1
-panda3d-simplepbr==0.10
-pandas==2.1.2
 parso==0.8.4
 pathspec==0.12.1
 Pillow==10.0.1
